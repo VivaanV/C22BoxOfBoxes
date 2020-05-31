@@ -1,4 +1,4 @@
-// CREATE GLOBAL VARIABLES
+// Game by Vivaan Vasa
 // For Engine, World, Bodies and any other that you have in mind to make your coding life easier.
 // remember to create an array of boxes.
 const Engine = Matter.Engine;
